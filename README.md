@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -159,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Memoization
 |  |
@@ -194,5 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2439-minimize-maximum-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
