@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1955-count-number-of-special-subsequences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1955-count-number-of-special-subsequences) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
+| [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1955-count-number-of-special-subsequences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1955-count-number-of-special-subsequences) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
+| [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
