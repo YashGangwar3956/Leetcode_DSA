@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Hash Table
 |  |
