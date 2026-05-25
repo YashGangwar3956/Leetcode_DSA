@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
+| [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3931-check-adjacent-digit-differences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Dynamic Programming
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
+| [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
+| [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
