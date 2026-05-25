@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0639-decode-ways-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 <!---LeetCode Topics End-->
