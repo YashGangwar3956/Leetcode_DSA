@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2318-number-of-distinct-roll-sequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2318-number-of-distinct-roll-sequences) |
 <!---LeetCode Topics End-->
