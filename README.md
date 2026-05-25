@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0639-decode-ways-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
+| [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [3931-check-adjacent-digit-differences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
+| [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 ## Sliding Window
 |  |
 | ------- |
