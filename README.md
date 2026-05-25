@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1955-count-number-of-special-subsequences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1955-count-number-of-special-subsequences) |
+| [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1955-count-number-of-special-subsequences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1955-count-number-of-special-subsequences) |
+| [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
 |  |
@@ -95,4 +99,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
+## Counting
+|  |
+| ------- |
+| [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 <!---LeetCode Topics End-->
