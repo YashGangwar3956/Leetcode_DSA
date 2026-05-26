@@ -1,0 +1,12 @@
+function numberOfSpecialChars(word: string): number {
+  const set = new Set<number>();
+  let count = 0;
+  for (const c of word) {
+    const code = c.charCodeAt(0);
+    const pair = code >= 97 ? code - 32 : code + 32;
+    if (set.has(pair) && !set.has(code)) count += 1;
+    set.add(code);
+  }
+
+  return count;
+}
