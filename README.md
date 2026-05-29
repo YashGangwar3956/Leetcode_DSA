@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2376-count-special-integers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2376-count-special-integers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
