@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
+| [2126-destroying-asteroids](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [2321-maximum-score-of-spliced-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2321-maximum-score-of-spliced-array) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
+| [2126-destroying-asteroids](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [2126-destroying-asteroids](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [2439-minimize-maximum-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2439-minimize-maximum-of-array) |
 ## Two Pointers
 |  |
