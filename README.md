@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2126-destroying-asteroids](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2321-maximum-score-of-spliced-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2321-maximum-score-of-spliced-array) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3093-longest-common-suffix-queries) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
