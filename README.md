@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2376-count-special-integers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2376-count-special-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
@@ -161,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Graph Theory
 |  |
 | ------- |
