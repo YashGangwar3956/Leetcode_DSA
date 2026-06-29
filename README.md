@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0639-decode-ways-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2063-vowels-of-all-substrings) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1955-count-number-of-special-subsequences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1955-count-number-of-special-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
