@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2439-minimize-maximum-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2439-minimize-maximum-of-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2439-minimize-maximum-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3093-longest-common-suffix-queries) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Hash Table
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -320,11 +324,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0675-cut-off-trees-for-golf-event) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
