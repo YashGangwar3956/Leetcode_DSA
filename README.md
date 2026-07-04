@@ -206,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Graph Theory
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0675-cut-off-trees-for-golf-event) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
