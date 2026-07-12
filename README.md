@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1732-find-the-highest-altitude](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1288-remove-covered-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
