@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -380,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
