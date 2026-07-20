@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1222-queens-that-can-attack-the-king](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1222-queens-that-can-attack-the-king) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0741-cherry-pickup) |
 | [1222-queens-that-can-attack-the-king](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1222-queens-that-can-attack-the-king) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2088-count-fertile-pyramids-in-a-land) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1222-queens-that-can-attack-the-king](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1222-queens-that-can-attack-the-king) |
+| [1260-shift-2d-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
