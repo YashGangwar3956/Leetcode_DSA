@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3932-count-k-th-roots-in-a-range](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Array
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3953-maximum-score-with-co-prime-element) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -391,11 +396,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Greedy
 |  |
 | ------- |
