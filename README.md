@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3931-check-adjacent-digit-differences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3931-check-adjacent-digit-differences) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3952-maximum-total-value-of-covered-indices) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Tree
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
 |  |
 | ------- |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3953-maximum-score-with-co-prime-element](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3953-maximum-score-with-co-prime-element) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Trie
 |  |
 | ------- |
