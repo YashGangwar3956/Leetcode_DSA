@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3975-filter-occupied-intervals) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Matrix
 |  |
 | ------- |
