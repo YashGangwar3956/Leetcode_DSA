@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0639-decode-ways-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0639-decode-ways-ii) |
 | [0741-cherry-pickup](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0741-cherry-pickup) |
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0335-self-crossing) |
+| [0357-count-numbers-with-unique-digits](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1840-maximum-building-height) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
