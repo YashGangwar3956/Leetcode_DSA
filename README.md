@@ -542,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0335-self-crossing) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
