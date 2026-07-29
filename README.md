@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1840-maximum-building-height) |
@@ -525,4 +526,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
