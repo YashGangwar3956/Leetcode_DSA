@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Matrix
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Topological Sort
 |  |
 | ------- |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Simulation
 |  |
 | ------- |
@@ -520,4 +524,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 <!---LeetCode Topics End-->
