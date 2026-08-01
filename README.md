@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0639-decode-ways-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0639-decode-ways-ii) |
 | [0741-cherry-pickup](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0741-cherry-pickup) |
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1840-maximum-building-height) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0335-self-crossing) |
+| [0486-predict-the-winner](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0486-predict-the-winner) |
 ## Geometry
 |  |
 | ------- |
@@ -557,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0183-customers-who-never-order) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
