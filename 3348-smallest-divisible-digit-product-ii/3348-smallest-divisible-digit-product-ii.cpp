@@ -1,148 +1,56 @@
 class Solution {
 public:
-    string findShortestSuffix(string & num, long long t, int suffix, vector<int> prime) {
-        long long product = 1;
-        string val = "";
-        int isgreat = 0;
-        for(int i = 0; i < suffix; i ++) {
-            int digit = num[i] - '0';
-            if(digit == 0) {
-                digit = 1;
-                isgreat = 1;
-                suffix = i; break;
-            }
-            val += digit + '0';
-            for(int j = 2; j <= 7; j ++) {
-                while(digit % j == 0 && t%j == 0) {
-                    digit /= j;
-                    t /= j;
-                    if(prime[j] > 0) {
-                        prime[j] --;
-                        product *= j;
-                    }
-                }
-            }
-        }
-        int start =(num[suffix] - '0');
-        if(isgreat) {
-            start = 1;
-        }
-        for(int i = max(1, start); i <= 9; i ++) {
-            int digit = i;
-            int g = __gcd(1LL*digit, t);
-            long long tt = t;
-            tt /= g;
-            string poss = "";
-            for(int i = 9; i >= 2 && tt > 1; i --) {
-                while(tt % i == 0) {
-                    tt /= i;
-                    poss += i + '0';
-                }
-            }
-            if(tt > 1) continue;
-            int required_ones = num.length() - suffix - (poss.length() + 1);
-            required_ones = max(required_ones, 0);
-            poss += string(required_ones, '1');
-            poss += '0' + digit;
-            reverse(poss.begin(), poss.end());
-            if(val.length() + poss.length() == num.length() && val + poss >= num) {
-                return val + poss;
-            }
-
-        }
-        return "";
-    }
     string smallestNumber(string num, long long t) {
-        vector<int> prime(10);
-        vector<int> prime_copy(10);
-        string numm = num;
-        long long tt = t;
-        for(int i = 2; i <= 7; i ++) {
-            while(t % i == 0) {
-                t /= i;
-                prime[i] ++;
+        long long temp = t;
+        for (int i = 2; i <= 9; i++) {
+            while (temp % i == 0) {
+                temp /= i;
             }
         }
-        prime_copy = prime;
-        if(t > 1) {
+        if (temp > 1) {
             return "-1";
         }
-        long long product = 1;
-        int all9 = 1;
-        for(int i = 0; i< num.size(); i ++) {
-            if(num[i] != '9') {
-                all9 = 0;
+        int n = num.length();
+        vector<long long> rem(n + 1);
+        rem[0] = t;
+        int pos = n - 1;
+        for (int i = 0; i < n; i++) {
+            if (num[i] == '0') {
+                pos = i;
                 break;
             }
+            rem[i + 1] = rem[i] / gcd(rem[i], num[i] - '0');
         }
-        int end = num.size() - 1;
-        int till = num.length() - 50;
-        till = max(till, 0);
-        string possible = "";
-        string an = "";
-        while(end >= till) {
-            string possible = findShortestSuffix(numm, tt, end, prime_copy);
-            if(possible.length() == 0) {
-                end --;
-                continue;
-            }
-            if(an.length() > 0 && an > possible && possible >= numm) {
+        if (rem[n] == 1) {
+            return num;
+        }
 
-                an = min(an, possible);
-            } else if(an.length() == 0 && possible >= numm) {
-                an = possible;
-            }
-            end --;
-        }
-        if(an.length() > 0) {
-            return an;
-        }
-        if(all9) {
-            numm = "1";
-            numm += string(num.length(), '0');
-            end = numm.size() - 1;
-            till = numm.length() - 50;
-            till = max(till, 0);
-            string possible = "";
-            string an = "";
-            while(end >= till) {
-                string possible = findShortestSuffix(numm, tt, end, prime_copy);
-                if(possible.length() == 0) {
-                    end --;
-                    continue;
+        for (int i = pos; i >= 0; i--) {
+            while (++num[i] <= '9') {
+                long long tNow = rem[i] / gcd(rem[i], num[i] - '0');
+                int k = 9;
+                for (int j = n - 1; j > i; j--) {
+                    while (tNow % k) {
+                        k--;
+                    }
+                    tNow /= k;
+                    num[j] = '0' + k;
                 }
-                if(an.length() > 0 && an > possible && possible >= numm) {
-
-                    an = min(an, possible);
-                } else if(an.length() == 0 && possible >= numm) {
-                    an = possible;
+                if (tNow == 1) {
+                    return num;
                 }
-                end --;
-            }
-
-            if(an.length() > 0) {
-                return an;
             }
         }
 
-        
-
-
-        possible = "";
-
-        cout << "came here " << tt << endl;
-        for(int i = 9; i >= 2 && tt > 1; i --) {
-            while(tt % i == 0) {
-                tt /= i;
-                possible += i + '0';
+        string ans;
+        for (int i = 9; i > 1; i--) {
+            while (t % i == 0) {
+                ans += '0' + i;
+                t /= i;
             }
         }
-        
-        if(possible.size() == numm.size() && possible < numm) {
-            possible += '1';
-        }
-
-        reverse(possible.begin(), possible.end());
-        return possible;
+        ans += string(max(n + 1 - (int)ans.length(), 0), '1');
+        ranges::reverse(ans);
+        return ans;
     }
 };
