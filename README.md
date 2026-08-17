@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [1833-maximum-ice-cream-bars](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 ## Geometry
 |  |
