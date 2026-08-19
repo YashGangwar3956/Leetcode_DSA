@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2029-stone-game-ix) |
