@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3953-maximum-score-with-co-prime-element](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3953-maximum-score-with-co-prime-element) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Trie
 |  |
 | ------- |
