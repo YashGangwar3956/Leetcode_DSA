@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4026-maximum-gap-between-stations](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4026-maximum-gap-between-stations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4026-maximum-gap-between-stations](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4026-maximum-gap-between-stations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4026-maximum-gap-between-stations](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4026-maximum-gap-between-stations) |
 ## Monotonic Stack
 |  |
 | ------- |
