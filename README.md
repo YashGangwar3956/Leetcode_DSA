@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4022-k-th-digit-in-infinite-string](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
+| [4022-k-th-digit-in-infinite-string](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Array
 |  |
 | ------- |
