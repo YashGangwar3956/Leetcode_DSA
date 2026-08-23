@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4020-elevator-requests-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4020-elevator-requests-i) |
 | [4023-elevator-requests-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4023-elevator-requests-ii) |
 | [4024-nearest-available-drone](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4024-nearest-available-drone) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Matrix
 |  |
 | ------- |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Two Pointers
 |  |
 | ------- |
