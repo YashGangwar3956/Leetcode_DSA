@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4020-elevator-requests-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4020-elevator-requests-i) |
 | [4023-elevator-requests-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4023-elevator-requests-ii) |
+| [4024-nearest-available-drone](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4024-nearest-available-drone) |
 ## Matrix
 |  |
 | ------- |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4024-nearest-available-drone](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4024-nearest-available-drone) |
 ## Trie
 |  |
 | ------- |
