@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3975-filter-occupied-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+| [4020-elevator-requests-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4020-elevator-requests-i) |
 ## Matrix
 |  |
 | ------- |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4020-elevator-requests-i) |
 ## Enumeration
 |  |
 | ------- |
