@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1927-sum-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 ## Geometry
 |  |
