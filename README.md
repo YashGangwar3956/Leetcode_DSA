@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+| [4023-elevator-requests-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4023-elevator-requests-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4020-elevator-requests-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4020-elevator-requests-i) |
+| [4023-elevator-requests-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4023-elevator-requests-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3975-filter-occupied-intervals) |
+| [4023-elevator-requests-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4023-elevator-requests-ii) |
 ## Stack
 |  |
 | ------- |
