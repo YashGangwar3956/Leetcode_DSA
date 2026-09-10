@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting Sort
 |  |
 | ------- |
