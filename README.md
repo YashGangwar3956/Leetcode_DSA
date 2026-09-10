@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0355-design-twitter) |
 | [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0355-design-twitter) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -688,9 +690,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0355-design-twitter) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
