@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0639-decode-ways-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0639-decode-ways-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
