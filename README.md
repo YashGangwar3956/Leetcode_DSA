@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0335-self-crossing) |
+| [0836-rectangle-overlap](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
 ## Database
 |  |
 | ------- |
