@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
 | [2439-minimize-maximum-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2439-minimize-maximum-of-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2439-minimize-maximum-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [1833-maximum-ice-cream-bars](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
