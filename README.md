@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0639-decode-ways-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1871-jump-game-vii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0355-design-twitter) |
+| [1096-brace-expansion-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [1096-brace-expansion-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1774-closest-dessert-cost](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1774-closest-dessert-cost) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1096-brace-expansion-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Memoization
 |  |
@@ -601,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1096-brace-expansion-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
