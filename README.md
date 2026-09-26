@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4022-k-th-digit-in-infinite-string) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Array
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3161-block-placement-queries) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Segment Tree
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 ## Queue
 |  |
 | ------- |
