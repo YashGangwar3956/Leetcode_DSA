@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Matrix
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4020-elevator-requests-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4020-elevator-requests-i) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Enumeration
 |  |
 | ------- |
