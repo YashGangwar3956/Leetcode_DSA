@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4054-count-shadow-pairs-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4054-count-shadow-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [4054-count-shadow-pairs-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4054-count-shadow-pairs-i) |
 ## Memoization
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [4054-count-shadow-pairs-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4054-count-shadow-pairs-i) |
 ## Breadth-First Search
 |  |
 | ------- |
