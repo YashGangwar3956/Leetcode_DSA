@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4022-k-th-digit-in-infinite-string](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4022-k-th-digit-in-infinite-string) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4055-count-shadow-pairs-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4055-count-shadow-pairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4052-cyclically-shift-rows-and-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4054-count-shadow-pairs-i) |
+| [4055-count-shadow-pairs-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4055-count-shadow-pairs-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3975-filter-occupied-intervals) |
 | [4023-elevator-requests-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4023-elevator-requests-ii) |
+| [4055-count-shadow-pairs-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4055-count-shadow-pairs-ii) |
 ## Stack
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [4054-count-shadow-pairs-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4054-count-shadow-pairs-i) |
+| [4055-count-shadow-pairs-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4055-count-shadow-pairs-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4055-count-shadow-pairs-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4055-count-shadow-pairs-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3161-block-placement-queries) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
+| [4055-count-shadow-pairs-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4055-count-shadow-pairs-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -556,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
+| [4055-count-shadow-pairs-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4055-count-shadow-pairs-ii) |
 ## Queue
 |  |
 | ------- |
@@ -621,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [4054-count-shadow-pairs-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4054-count-shadow-pairs-i) |
+| [4055-count-shadow-pairs-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4055-count-shadow-pairs-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
