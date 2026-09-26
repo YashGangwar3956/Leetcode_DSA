@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4022-k-th-digit-in-infinite-string) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Array
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4051-count-subarrays-with-distant-sums](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4051-count-subarrays-with-distant-sums) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Matrix
 |  |
 | ------- |
