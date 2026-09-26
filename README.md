@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4023-elevator-requests-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4023-elevator-requests-ii) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3971-maximum-total-value](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3971-maximum-total-value) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4022-k-th-digit-in-infinite-string) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Binary Search
 |  |
 | ------- |
