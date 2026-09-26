@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3953-maximum-score-with-co-prime-element](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3953-maximum-score-with-co-prime-element) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Rolling Hash
 |  |
 | ------- |
