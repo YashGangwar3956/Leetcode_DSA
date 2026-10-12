@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1994-the-number-of-good-subsets](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/1994-the-number-of-good-subsets) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2397-maximum-rows-covered-by-columns) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
