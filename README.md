@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
