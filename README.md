@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3934-smallest-unique-subarray](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3934-smallest-unique-subarray) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/YashGangwar3956/Leetcode_DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
